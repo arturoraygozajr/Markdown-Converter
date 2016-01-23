@@ -1,0 +1,15 @@
+h1 {
+	font-size: 22px;
+}
+
+body {
+	text-align: center;
+	padding-top: 24px;
+}
+
+#input, #output {
+	background-color: grey;
+	height: 400px;
+	width: 400px;
+	display: inline-block;
+}
